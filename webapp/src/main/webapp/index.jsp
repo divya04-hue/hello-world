@@ -5,7 +5,7 @@
     <hr>
     <br>
     
-    <p> Hi, by Divya</p>
+    <p> Hi, by Divya, checking if the things are as is</p>
     <br>
 
     <label for="Name"><b>Enter Name</b></label>
